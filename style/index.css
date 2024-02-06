@@ -1,0 +1,125 @@
+.header{
+  display:flex;
+  padding-left: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+.headerfont{
+  justify-content: start;
+}
+.text{
+  font-size: 20px;
+}
+.text1{
+  font-size: 20px;
+  color: rgb(143, 206, 49);
+}
+.mainpage-background {
+  background-color: #e1e4eb;
+  height: 100vh;
+  padding: 5%;
+}
+
+.Box{
+  align-self:center;
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-bottom: 2%;
+  padding-right: 5%;
+  align-items: start;
+  height: 90%;
+  border-radius: 6px;
+  width: 80%;
+  background-color: #fefeff;
+  box-shadow: 1px 2px rgba(0,0,0,0.1);
+}
+.main_content{
+  align-items: start;
+}
+.background_colour{
+  color: rgb(228, 0, 0);
+  font-style:normal;
+  align-items: center;
+}
+.text_size{
+  width: 1%;
+  
+}
+.inputbox{
+  align-items: center;
+}
+.parent {
+  /* /* border: 1px solid rgb(245, 243, 243);  */
+  margin: 1rem;
+  text-align: center;
+  width: 100%;
+  padding: 2%;
+
+}
+.child {
+  display: inline-block;
+  /* border: 1px solid rgb(248, 243, 243); */
+  vertical-align: start;
+  align-items: start;
+  /* padding:; */
+  width: 50%;
+
+
+  /* margin: 1%; */
+  /* float: left; */
+}
+.child2{
+  vertical-align: center;
+  align-items: start;
+  display:inline-block;
+  width: 150%;
+  /* float: right; */
+  /* border: 1px solid rgb(248, 243, 243); */
+}
+.image-box{
+  width: 30px;
+  height: 30px;
+  clip-path: circle(50%);
+  object-fit: cover;
+  
+  /* border-radius: 2%; */
+}
+.nav-image-box{
+  width: 100%;
+  height: 50px;
+  clip-path: circle(100%);
+  object-fit: cover;
+  
+  /* border-radius: 2%; */
+}
+
+.button{
+  text-align: center;
+  background-color: #b6b8c5;
+  height: 30px;
+  width: 110px;
+  border-width: 0px;
+  border-radius: 18px;
+  font-size: 19px;
+  font-weight: 10px;
+  margin-right: 50px;
+  position: relative;
+
+}
+.boxsmall{
+  padding: 3%;
+}
+.boxsmall1{
+  padding: 1%;
+}
+.button-box{
+  margin-left: 180px;
+}
+.tmp{
+  text-align: center;
+  border: black;
+  /* border: 1px solid rgb(245, 243, 243);  */
+}

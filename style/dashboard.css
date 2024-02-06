@@ -1,0 +1,129 @@
+.header{
+    display:flex;
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+.headerfont{
+  justify-content: start;
+}
+.text2{
+  font-size: 20px;
+}
+.text3{
+  font-size: 20px;
+  color: rgb(143, 206, 49);
+}
+.tmp{
+  text-align: center;
+  border: black;
+  /* border: 1px solid rgb(245, 243, 243);  */
+}
+.mainpage-background {
+  background-color: #e1e4eb;
+  height: 88vh;
+  padding: 5%;
+}
+.font{
+  color: rgb(45, 45, 45);
+  font-size: 25px;
+}
+.float-child {
+  width: 50%;
+  float: left;
+  /* border: 2px solid red; */
+} 
+.float-child1 {
+  width: 50%;
+  padding-top: 1%;
+  justify-items: end;
+  float:right;
+  padding-left: 43.5%;
+  /* border: 2px solid red; */
+} 
+.button{
+  background-color: #82a70c;
+  color: white;
+  border: #e1e4eb;
+  border-radius: 7px;
+  justify-content: center;
+}
+.float-container{
+  width: 100%;
+  padding-bottom: 1%;
+  display: flex;
+   /* border: 2px solid red; */
+}
+.back{
+  background-color:#42515F;
+  height: 20%;
+  /* border: 2px solid red; */
+  width: 100%;
+  display: flex;
+}
+.Box{
+  align-self:center;
+  align-items: start;
+  height: 90%;
+  border-radius: 6px;
+  width: 100%;
+  background-color: #fefeff;
+  box-shadow: 1px 2px rgba(0,0,0,0.1);
+  display: flex;
+  /* border: 2px solid red; */
+}
+.main-content{
+  background-color: rgb(253, 255, 253);
+  border-radius: 2%;
+  border-color: rgb(75, 74, 74);
+  display: flex;
+  height: 15%;
+  display: flex;
+  width: 100%;
+  /* border: 2px solid red; */
+}
+.text{
+  color: white;
+  font-size: medium;
+  display: flex;
+}
+.namesblock{
+  padding-top: 1%;
+  padding-left: 11%;
+  align-items: center;
+  display: flex;
+}
+.main-back{
+    background-color: rgb(246, 246, 248);
+    width: 100%;
+    border-bottom: 2px solid rgba(59, 56, 56, 0.208);
+    display: flex;
+}
+.text1{
+  color: rgb(7, 0, 0);
+  align-items: center;
+  font-size: small;
+  display: flex;
+}
+.namesblock2{
+  padding-top: 1%;
+  padding-left:11%;
+  align-items: center;
+  display: flex;
+}
+.depatementbox{
+  background-color: #E9FEA5;
+  font-size: small;
+  justify-content: center;
+  display: flex;
+  border-radius: 20px;
+  border-color: #fafcfc;
+}
+.names1{
+  padding-top: 1%;
+  justify-content: center;
+  display: flex;
+}
