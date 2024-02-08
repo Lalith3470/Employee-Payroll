@@ -42,7 +42,7 @@
                             <button class="button">cancel</button></div>
                         </div>
                         <div class="child2 d-flex flex-column justify-content-start">
-                            <div class="boxsmall1"><input type="text" style="width: 300px;"></div>
+                            <div class="boxsmall1"><input type="text" id="name" style="width: 300px;"></div>
                             <div class="boxsmall1"><div> <input type="radio">
                                 <img src="https://thumbs.dreamstime.com/b/beautiful-brunette-girl-red-lips-black-bob-hairstyle-pretty-young-woman-black-hair-closeup-portrait-model-209406206.jpg" class="image-box" alt="Girl">
                                 <input type="radio">
@@ -54,53 +54,42 @@
                             </div></div>
                             <div class="boxsmall1">
                                 <div>
-                                    <input type="radio">
+                                    <input type="radio" id="male">
                                     <label>Male</label>
-                                    <input type="radio">
+                                    <input type="radio" id="female">
                                     <label>Female</label>
                                 </div>
                             </div>
                             <div class="boxsmall1">
                             <div>
-                                <input type="checkbox">
+                                <input type="checkbox" id="department">
                                 <label>HR</label>
-                                <input type="checkbox">
+                                <input type="checkbox" id="department1">
                                 <label>Sales</label>
-                                <input type="checkbox">
+                                <input type="checkbox" id="department2">
                                 <label>Finance</label>
-                                <input type="checkbox">
+                                <input type="checkbox" id="department3">
                                 <label>Engineer</label>
-                                <input type="checkbox">
-                                <label>Others</label>
+                                <input type="checkbox" id="department4">
+                                <label>Other</label>
                             </div>
                             </div>
                             <div class="boxsmall1">
                             <div>
-                                <select name="Salary" id="Salary">
-                                    <option>select salary </option>
-                                    <option>10000-30000</option>
-                                    <option>30000-60000</option>
-                                    <option>60000-90000</option>
-                                    <option>90000-120000</option>
-                                    <option>120000-150000</option>
-                                    <option>150000-180000</option>
-                                    <option>180000-200000</option>
-                                    <option>200000-100000000</option>
-
-                                </select>
+                               <input type="text" id="sal">
                             </div>
                             </div>
                             <div class="boxsmall1">
                                 <div>
-                                    <input type="datetime-local">
+                                    <input type="datetime-local" id="date">
                                 </div>
                                 </div>
-                            <div class="boxsmall1"><input type="text" style="width: 450px; height: 85px"></div>
+                            <div class="boxsmall1"><input type="text" id="note" style="width: 450px; height: 70px"></div>
                                <div class="boxsmall1"> 
                                 <br> 
                                 <div class=" d-flex flex-row justify-content-center">
                                     <div class="button-box">
-                                    <button class="button">Submit</button>
+                                    <button id="submitButton" class="button">Submit</button>
                                     <button class="button">Reset</button>
                                     </div>
                                 </div>
@@ -111,5 +100,6 @@
                 </div>
             </div>
         </div>
-    </body>
+    <script src="/scripts/index.js"></script>
+</body>
 </html>

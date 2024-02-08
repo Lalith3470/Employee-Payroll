@@ -41,7 +41,7 @@
   padding-top: 1%;
   justify-items: end;
   float:right;
-  padding-left: 43.5%;
+  padding-left: 39.5%;
   /* border: 2px solid red; */
 } 
 .button{
@@ -126,4 +126,16 @@
   padding-top: 1%;
   justify-content: center;
   display: flex;
+}
+.image-box{
+  width: 30px;
+  height: 30px;
+  clip-path: circle(50%);
+  object-fit: cover;
+  
+  /* border-radius: 2%; */
+}
+.boxsize{
+  padding-top: 0.7%;
+  padding-right: 0.7%;
 }
