@@ -104,7 +104,8 @@
   font-size: 19px;
   font-weight: 10px;
   margin-right: 50px;
-  position: relative;
+  /* position: relative; */
+   /* border: 1px solid rgb(239, 11, 11); */
 
 }
 .boxsmall{
@@ -115,6 +116,7 @@
 }
 .button-box{
   margin-left: 180px;
+   /* border: 1px solid rgb(241, 9, 9); */
 }
 .tmp{
   text-align: center;

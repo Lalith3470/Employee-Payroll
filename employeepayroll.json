@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": "4497",
+      "Name": "Molleti Lalith Kiran ",
+      "img": "https://media.istockphoto.com/id/1216291363/photo/albino-man-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=AX1z11YXqITEqMUCCaQn9vkffmP36xOOjfnUJxYgwu8=",
+      "Gender": "Male",
+      "Department": [
+        "HR",
+        "Sales"
+      ],
+      "Salary": "10000",
+      "Start_Date": "2024-02-12"
+    },
+    {
+      "id": "d6fc",
+      "Name": "Sai",
+      "img": "https://media.istockphoto.com/id/1138008134/photo/indian-man-headshot.jpg?s=612x612&w=0&k=20&c=ttUUhnXwTVhGqEi6QU4zSkp1KP44lCK4WIwoSo-LXpY=",
+      "Gender": "Male",
+      "Department": [
+        "HR",
+        "Sales"
+      ],
+      "Salary": "20000",
+      "Start_Date": "2024-02-12"
+    },
+    {
+      "id": "a25c",
+      "Name": "Samu",
+      "img": "https://thumbs.dreamstime.com/b/beautiful-brunette-girl-red-lips-black-bob-hairstyle-pretty-young-woman-black-hair-closeup-portrait-model-209406206.jpg",
+      "Gender": "Female",
+      "Department": [
+        "HR",
+        "Finance"
+      ],
+      "Salary": "200000",
+      "Start_Date": "2024-02-12"
+    },
+    {
+      "id": "ea48",
+      "Name": "LAlith",
+      "img": "https://media.istockphoto.com/id/1216291363/photo/albino-man-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=AX1z11YXqITEqMUCCaQn9vkffmP36xOOjfnUJxYgwu8=",
+      "Gender": "Male",
+      "Department": [
+        "Sales"
+      ],
+      "Salary": "1000",
+      "Start_Date": "2024-02-12"
+    },
+    {
+      "id": "13f6",
+      "Name": "Lalith Kiran 12",
+      "img": "https://media.istockphoto.com/id/1216291363/photo/albino-man-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=AX1z11YXqITEqMUCCaQn9vkffmP36xOOjfnUJxYgwu8=",
+      "Gender": "Male",
+      "Department": [
+        "HR"
+      ],
+      "Salary": "1000qnlkfa",
+      "Start_Date": "2024-02-12"
+    }
+  ]
+}
